@@ -41,7 +41,7 @@ This project isn’t just code — it’s a **visual feeling of music**.
 
 ### 📷 Hardware Setup
 
-<!-- INSERT SETUP IMAGE HERE -->![Uploading image.png…]()
+<>
 
 
 ### 🌈 RGB Glow Shots
