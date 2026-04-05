@@ -39,7 +39,7 @@ This project isn’t just code — it’s a **visual feeling of music**.
 
 ### 🎬 Demo Video
 
-<!-- INSERT DEMO VIDEO HERE -->
+<https://www.instagram.com/stories/artismchemcoder/3868696249562132121?utm_source=ig_story_item_share&igsh=MTJlYzJ1eWRsMTBjNg==>
 
 ### 📷 Hardware Setup
 
