@@ -41,7 +41,7 @@ This project isn’t just code — it’s a **visual feeling of music**.
 
 ### 📷 Hardware Setup
 
-<>
+<https://github.com/metadore/Lyric-display-arduino/blob/main/WhatsApp%20Image%202026-04-05%20at%209.39.08%20PM.jpeg>
 
 
 ### 🌈 RGB Glow Shots
