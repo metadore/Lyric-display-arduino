@@ -6,9 +6,7 @@
   <b>A cinematic Arduino experience that turns music into light, motion, and emotion.</b>
 </p>
 
-<p align="center">
-  <img src="<!-- INSERT BANNER IMAGE HERE -->" alt="banner" width="100%">
-</p>
+
 
 ---
 
@@ -47,7 +45,7 @@ This project isn’t just code — it’s a **visual feeling of music**.
 
 ### 🌈 RGB Glow Shots
 
-<!-- INSERT RGB IMAGES HERE -->
+<https://github.com/metadore/Lyric-display-arduino/blob/main/WhatsApp%20Image%202026-04-05%20at%209.39.07%20PM.jpeg>
 
 ---
 
